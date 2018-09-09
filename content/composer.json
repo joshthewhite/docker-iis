@@ -1,0 +1,11 @@
+{
+    "name": "test/site",
+    "type": "project",
+    "require": {
+        "leocavalcante/siler": "^1.0",
+        "vlucas/phpdotenv": "^2.5",
+        "twig/twig": "^2.5",
+        "zendframework/zend-diactoros": "^1.8",
+        "twig/extensions": "^1.5"
+    }
+}
